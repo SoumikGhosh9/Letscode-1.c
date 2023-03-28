@@ -1,0 +1,11 @@
+What is the consequence of using the main() in every standard program?
+
+Every program has a primary function that must be named main. The main function serves as the starting point for program execution. It usually control program execution by directing the calls to other functions in the program.
+
+Why do we use #include <stdio.h> in every single program?Write down the full form of it.
+
+ The reason why we use stdio.h in c is that this header file imports different variables, marcos, and functions to perform input and output operations.
+To perform input and output operations in our C program, we need to import the stdio.h header file into our program.
+
+The full form is Standard Input Output Header File.
+
